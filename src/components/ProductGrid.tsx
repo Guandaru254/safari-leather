@@ -9,9 +9,9 @@ const products = [
     price: "KES 17,000",
   },
   {
-    name: "Safari Travel Duffel",
-    image: "/images/duffel.jpg",
-    price: "KES 12,000",
+    name: "Safari Duffel",
+    image: "/leather.jpeg",
+    price: "KES 37,500",
   },
   {
     name: "Elegant Crossbody",

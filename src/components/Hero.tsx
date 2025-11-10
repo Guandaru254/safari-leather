@@ -41,7 +41,6 @@ export default function Hero() {
           whileHover={{ scale: 1.05 }}
           className="inline-block bg-gold text-black px-8 py-3 rounded-full font-semibold"
         >
-          Explore Collection
         </motion.a>
       </motion.div>
     </section>

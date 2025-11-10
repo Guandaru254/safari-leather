@@ -10,8 +10,8 @@ const products = [
     image: "/asali.jpg",
   },
   {
-    name: "Nomad Travel Duffel",
-    price: "KSh 14,000",
+    name: "Safari Duffel",
+    price: "KSh 37,500",
     image: "/leather.jpeg",
   },
   {
