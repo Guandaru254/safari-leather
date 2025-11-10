@@ -5,14 +5,14 @@ import Image from "next/image";
 
 const products = [
   {
-    name: "Classic Safari Tote",
-    price: "KSh 9,500",
-    image: "/images/tote.jpg",
+    name: "Asali Tote Bag",
+    price: "KSh 17,000",
+    image: "/asali.jpg",
   },
   {
     name: "Nomad Travel Duffel",
     price: "KSh 14,000",
-    image: "/images/duffel.jpg",
+    image: "/leather.jpeg",
   },
   {
     name: "Safari Executive Briefcase",

@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 
 const products = [
   {
-    name: "Classic Leather Tote",
-    image: "/images/tote.jpg",
-    price: "KES 8,500",
+    name: "Asali Tote Bag",
+    image: "/asali.jpg",
+    price: "KES 17,000",
   },
   {
     name: "Safari Travel Duffel",
